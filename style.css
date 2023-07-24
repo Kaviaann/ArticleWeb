@@ -1,0 +1,51 @@
+@font-face {
+    font-family: pop;
+    src: url(/font/poppins-semibold-webfont.woff) format('woff'),
+         url(/font/poppins-semibold-webfont.woff2) format('woff2');
+
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#Pcontainer{
+    margin: 20px 30px 0px;
+    font-family: pop;
+    border: 2px solid black;
+    padding: 0px 20px;
+}
+
+#Maincontainer{
+    margin: 20px 30px;
+    font-family: pop;
+    border: 2px solid black;
+    padding: 0px 20px;
+}
+
+#Lastcontainer{
+    margin: 20px 30px;
+    font-family: pop;
+    border: 2px solid black;
+    padding: 0px 20px;
+}
+
+#name{
+    font-family: pop;
+    margin: 20px 0px 0px 30px;
+}
+
+.button{
+    background-color: white;
+    font-family: pop;
+    padding: 5px;
+    cursor: pointer;
+}
+
+#bContainer {
+    position: fixed;
+    display: block;
+}
+
+/* hsl(0, 2%, 12%) fav color */
+
+  
